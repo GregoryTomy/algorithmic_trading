@@ -1,2 +1,2 @@
 # technical_analysis
-Repository for technical analysis code  (tools and strategies).
+Technical indicators developed in conjunction with learning technical analysis.
