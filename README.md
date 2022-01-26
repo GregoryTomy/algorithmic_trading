@@ -1,3 +1,3 @@
-# technical_analysis
-Technical indicators developed in conjunction with learning technical analysis.
+# alogirthmic_trading
+Repository with code developed for algorithmic trading.
 Next: add images
