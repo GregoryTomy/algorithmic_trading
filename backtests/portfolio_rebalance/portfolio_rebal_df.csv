@@ -1,0 +1,120 @@
+Date,portfolio,new_picks,relegated,monthly_performance
+2012-03-01,"['JPM', 'AAPL', 'AXP', 'GS', 'PFE', 'IBM', 'CSCO', 'KO', 'HD', 'UNH']","['JPM', 'AAPL', 'AXP', 'GS', 'PFE', 'IBM', 'CSCO', 'KO', 'HD', 'UNH']",0,0.0
+2012-04-01,"['AAPL', 'AXP', 'PFE', 'IBM', 'KO', 'HD', 'UNH', 'TRV', 'VZ', 'WBA']","['TRV', 'VZ', 'WBA']","['GS', 'JPM', 'CSCO']",-0.01380534489063091
+2012-05-01,"['AAPL', 'PFE', 'KO', 'HD', 'UNH', 'TRV', 'VZ', 'WMT', 'DIS', 'VZ']","['WMT', 'DIS', 'VZ']","['WBA', 'AXP', 'IBM']",-0.03817336547734011
+2012-06-01,"['PFE', 'HD', 'UNH', 'VZ', 'WMT', 'DIS', 'VZ', 'MRK', 'XOM', 'JNJ']","['MRK', 'XOM', 'JNJ']","['AAPL', 'TRV', 'KO']",0.053207470980060935
+2012-07-01,"['PFE', 'VZ', 'WMT', 'VZ', 'MRK', 'XOM', 'JNJ', 'WBA', 'MRK', 'WMT']","['WBA', 'MRK', 'WMT']","['UNH', 'HD', 'DIS']",0.012780483740918424
+2012-08-01,"['PFE', 'WMT', 'MRK', 'XOM', 'WBA', 'MRK', 'WMT', 'CSCO', 'AAPL', 'HD']","['CSCO', 'AAPL', 'HD']","['VZ', 'VZ', 'JNJ']",-0.022059940451329096
+2012-09-01,"['PFE', 'MRK', 'XOM', 'WBA', 'MRK', 'HD', 'JPM', 'GS', 'HD', 'IBM']","['JPM', 'GS', 'HD', 'IBM']","['CSCO', 'AAPL', 'WMT']",0.03490817606324652
+2012-10-01,"['PFE', 'MRK', 'MRK', 'HD', 'JPM', 'GS', 'HD', 'GS', 'TRV', 'V']","['GS', 'TRV', 'V']","['IBM', 'WBA', 'XOM']",0.008475176413114826
+2012-11-01,"['PFE', 'HD', 'JPM', 'HD', 'TRV', 'V', 'CSCO', 'V', 'NKE', 'HD']","['CSCO', 'V', 'NKE', 'HD']","['GS', 'GS', 'MRK']",0.006290665500346982
+2012-12-01,"['PFE', 'JPM', 'TRV', 'V', 'CSCO', 'V', 'NKE', 'WBA', 'GS', 'JPM']","['WBA', 'GS', 'JPM']","['HD', 'HD', 'HD']",0.009544889608739759
+2013-01-01,"['PFE', 'JPM', 'TRV', 'NKE', 'WBA', 'GS', 'JPM', 'GS', 'PG', 'CAT']","['GS', 'PG', 'CAT']","['V', 'V', 'CSCO']",0.07482927570906814
+2013-02-01,"['JPM', 'TRV', 'WBA', 'GS', 'JPM', 'GS', 'PG', 'VZ', 'AXP', 'JPM']","['VZ', 'AXP', 'JPM']","['CAT', 'NKE', 'PFE']",0.014923750787444168
+2013-03-01,"['TRV', 'WBA', 'GS', 'GS', 'PG', 'VZ', 'AXP', 'WBA', 'BA', 'NKE']","['WBA', 'BA', 'NKE']","['JPM', 'JPM', 'JPM']",0.02547802715557873
+2013-04-01,"['TRV', 'WBA', 'VZ', 'AXP', 'WBA', 'BA', 'NKE', 'MSFT', 'DIS', 'VZ']","['MSFT', 'DIS', 'VZ']","['GS', 'GS', 'PG']",0.033205015709654964
+2013-05-01,"['TRV', 'AXP', 'BA', 'NKE', 'MSFT', 'DIS', 'CSCO', 'JPM', 'AXP', 'GS']","['CSCO', 'JPM', 'AXP', 'GS']","['VZ', 'VZ', 'WBA']",-0.0052101707380780345
+2013-06-01,"['AXP', 'BA', 'NKE', 'MSFT', 'DIS', 'CSCO', 'AXP', 'UNH', 'BA', 'VZ']","['UNH', 'BA', 'VZ']","['GS', 'TRV', 'JPM']",-0.00843951148751162
+2013-07-01,"['BA', 'NKE', 'DIS', 'CSCO', 'UNH', 'BA', 'AAPL', 'WBA', 'UNH', 'JNJ']","['AAPL', 'WBA', 'UNH', 'JNJ']","['MSFT', 'VZ', 'AXP']",0.011082274170932516
+2013-08-01,"['BA', 'NKE', 'UNH', 'BA', 'AAPL', 'WBA', 'UNH', 'AAPL', 'MSFT', 'CAT']","['AAPL', 'MSFT', 'CAT']","['CSCO', 'JNJ', 'DIS']",-0.023884873063085864
+2013-09-01,"['BA', 'NKE', 'BA', 'WBA', 'MSFT', 'CAT', 'NKE', 'BA', 'WBA', 'V']","['NKE', 'BA', 'WBA', 'V']","['AAPL', 'AAPL', 'UNH']",0.053836855802256146
+2013-10-01,"['BA', 'BA', 'WBA', 'MSFT', 'BA', 'WBA', 'BA', 'WBA', 'AAPL', 'AXP']","['BA', 'WBA', 'AAPL', 'AXP']","['CAT', 'V', 'NKE']",0.0712718312398106
+2013-11-01,"['BA', 'BA', 'MSFT', 'BA', 'BA', 'AAPL', 'AXP', 'JPM', 'MRK', 'UNH']","['JPM', 'MRK', 'UNH']","['WBA', 'WBA', 'WBA']",0.03056600635460325
+2013-12-01,"['BA', 'BA', 'BA', 'BA', 'AAPL', 'AXP', 'JPM', 'INTC', 'V', 'XOM']","['INTC', 'V', 'XOM']","['MSFT', 'MRK', 'UNH']",0.017981664565479682
+2014-01-01,"['AXP', 'JPM', 'INTC', 'V', 'MRK', 'CAT', 'MSFT', 'WBA', 'PFE', 'VZ']","['MRK', 'CAT', 'MSFT', 'WBA', 'PFE', 'VZ']","['AAPL', 'XOM', 'BA']",-0.07296765528247565
+2014-02-01,"['AXP', 'JPM', 'V', 'MRK', 'CAT', 'WBA', 'PFE', 'WBA', 'DIS', 'AXP']","['WBA', 'DIS', 'AXP']","['VZ', 'INTC', 'MSFT']",0.05375682075931176
+2014-03-01,"['AXP', 'JPM', 'MRK', 'CAT', 'PFE', 'DIS', 'AXP', 'MSFT', 'JNJ', 'JPM']","['MSFT', 'JNJ', 'JPM']","['V', 'WBA', 'WBA']",-0.002854237540459803
+2014-04-01,"['MRK', 'CAT', 'PFE', 'DIS', 'MSFT', 'JNJ', 'AAPL', 'TRV', 'KO', 'CAT']","['AAPL', 'TRV', 'KO', 'CAT']","['JPM', 'JPM', 'AXP']",-0.013182703525750072
+2014-05-01,"['MRK', 'DIS', 'MSFT', 'JNJ', 'AAPL', 'TRV', 'KO', 'VZ', 'CSCO', 'AAPL']","['VZ', 'CSCO', 'AAPL']","['PFE', 'CAT', 'CAT']",0.006781683906705827
+2014-06-01,"['DIS', 'MSFT', 'JNJ', 'AAPL', 'KO', 'CSCO', 'AAPL', 'INTC', 'CVX', 'CAT']","['INTC', 'CVX', 'CAT']","['VZ', 'MRK', 'TRV']",0.018210927896922503
+2014-07-01,"['DIS', 'MSFT', 'AAPL', 'CSCO', 'AAPL', 'INTC', 'CVX', 'INTC', 'IBM', 'MSFT']","['INTC', 'IBM', 'MSFT']","['CAT', 'KO', 'JNJ']",0.0014448563571588745
+2014-08-01,"['DIS', 'MSFT', 'AAPL', 'AAPL', 'INTC', 'INTC', 'MSFT', 'HD', 'CAT', 'PG']","['HD', 'CAT', 'PG']","['CSCO', 'CVX', 'IBM']",0.03598635906851495
+2014-09-01,"['DIS', 'MSFT', 'INTC', 'INTC', 'MSFT', 'PG', 'NKE', 'JNJ', 'GS', 'MSFT']","['NKE', 'JNJ', 'GS', 'MSFT']","['CAT', 'HD', 'AAPL']",-0.007589103688240906
+2014-10-01,"['DIS', 'MSFT', 'MSFT', 'PG', 'NKE', 'GS', 'MSFT', 'V', 'UNH', 'MMM']","['V', 'UNH', 'MMM']","['INTC', 'INTC', 'JNJ']",0.01486046560731491
+2014-11-01,"['PG', 'NKE', 'V', 'UNH', 'MMM', 'WMT', 'CSCO', 'AAPL', 'INTC', 'BA']","['WMT', 'CSCO', 'AAPL', 'INTC', 'BA']","['GS', 'DIS', 'MSFT']",0.03197603331925973
+2014-12-01,"['PG', 'V', 'UNH', 'MMM', 'WMT', 'CSCO', 'INTC', 'WBA', 'HD', 'JPM']","['WBA', 'HD', 'JPM']","['AAPL', 'NKE', 'BA']",-0.007662121111057729
+2015-01-01,"['V', 'UNH', 'MMM', 'WMT', 'CSCO', 'WBA', 'HD', 'BA', 'MRK', 'AAPL']","['BA', 'MRK', 'AAPL']","['JPM', 'INTC', 'PG']",-0.03700425409343198
+2015-02-01,"['V', 'UNH', 'MMM', 'CSCO', 'WBA', 'HD', 'AAPL', 'DIS', 'JPM', 'CSCO']","['DIS', 'JPM', 'CSCO']","['MRK', 'WMT', 'BA']",0.061805079728432175
+2015-03-01,"['UNH', 'MMM', 'WBA', 'HD', 'AAPL', 'DIS', 'JPM', 'UNH', 'NKE', 'WBA']","['UNH', 'NKE', 'WBA']","['CSCO', 'CSCO', 'V']",-0.016046400307767494
+2015-04-01,"['MMM', 'WBA', 'AAPL', 'DIS', 'JPM', 'NKE', 'WBA', 'MSFT', 'CAT', 'IBM']","['MSFT', 'CAT', 'IBM']","['UNH', 'UNH', 'HD']",-0.018524146058714254
+2015-05-01,"['MMM', 'WBA', 'AAPL', 'DIS', 'JPM', 'NKE', 'WBA', 'UNH', 'INTC', 'GS']","['UNH', 'INTC', 'GS']","['MSFT', 'CAT', 'IBM']",0.016293942089321722
+2015-06-01,"['WBA', 'DIS', 'JPM', 'NKE', 'WBA', 'UNH', 'GS', 'NKE', 'DIS', 'JPM']","['NKE', 'DIS', 'JPM']","['INTC', 'AAPL', 'MMM']",-0.0032589336516328227
+2015-07-01,"['WBA', 'DIS', 'NKE', 'WBA', 'NKE', 'DIS', 'WBA', 'V', 'TRV', 'PFE']","['WBA', 'V', 'TRV', 'PFE']","['GS', 'UNH', 'JPM']",0.05289232830304923
+2015-08-01,"['WBA', 'NKE', 'WBA', 'NKE', 'WBA', 'V', 'TRV', 'AXP', 'HD', 'VZ']","['AXP', 'HD', 'VZ']","['DIS', 'DIS', 'PFE']",-0.08873263985267107
+2015-09-01,"['NKE', 'NKE', 'V', 'TRV', 'AXP', 'HD', 'NKE', 'INTC', 'MCD', 'MSFT']","['NKE', 'INTC', 'MCD', 'MSFT']","['VZ', 'WBA', 'WBA']",-0.002550199264713193
+2015-10-01,"['V', 'TRV', 'HD', 'INTC', 'MCD', 'MSFT', 'MSFT', 'CVX', 'TRV', 'MCD']","['MSFT', 'CVX', 'TRV', 'MCD']","['AXP', 'NKE', 'NKE']",0.09760772602107509
+2015-11-01,"['V', 'HD', 'INTC', 'MCD', 'MSFT', 'MSFT', 'MCD', 'HD', 'JPM', 'MSFT']","['HD', 'JPM', 'MSFT']","['CVX', 'TRV', 'TRV']",0.026173569488760418
+2015-12-01,"['INTC', 'MCD', 'MSFT', 'MSFT', 'MCD', 'JPM', 'MSFT', 'PG', 'UNH', 'MCD']","['PG', 'UNH', 'MCD']","['V', 'HD', 'HD']",0.01159317952811557
+2016-01-01,"['MCD', 'MSFT', 'MSFT', 'MCD', 'MSFT', 'PG', 'MCD', 'WMT', 'VZ', 'MCD']","['WMT', 'VZ', 'MCD']","['INTC', 'JPM', 'UNH']",-0.006446864468735813
+2016-02-01,"['MCD', 'MCD', 'PG', 'MCD', 'WMT', 'VZ', 'MCD', 'CSCO', 'CAT', 'IBM']","['CSCO', 'CAT', 'IBM']","['MSFT', 'MSFT', 'MSFT']",-0.04233962870999943
+2016-03-01,"['MCD', 'MCD', 'MCD', 'MCD', 'CSCO', 'CAT', 'IBM', 'IBM', 'CVX', 'AAPL']","['IBM', 'CVX', 'AAPL']","['PG', 'WMT', 'VZ']",0.08315849852810615
+2016-04-01,"['MCD', 'MCD', 'MCD', 'MCD', 'CSCO', 'CAT', 'CVX', 'PFE', 'CVX', 'JPM']","['PFE', 'CVX', 'JPM']","['AAPL', 'IBM', 'IBM']",-0.013484247451467868
+2016-05-01,"['CSCO', 'CVX', 'PFE', 'CVX', 'JPM', 'CSCO', 'AAPL', 'MSFT', 'PFE', 'WMT']","['CSCO', 'AAPL', 'MSFT', 'PFE', 'WMT']","['CAT', 'MCD', 'MCD']",-0.005347554923630116
+2016-06-01,"['CSCO', 'CVX', 'PFE', 'CVX', 'CSCO', 'PFE', 'WMT', 'VZ', 'JNJ', 'WBA']","['VZ', 'JNJ', 'WBA']","['JPM', 'AAPL', 'MSFT']",0.004720900558238883
+2016-07-01,"['CSCO', 'PFE', 'CSCO', 'PFE', 'WMT', 'VZ', 'JNJ', 'MSFT', 'CAT', 'AAPL']","['MSFT', 'CAT', 'AAPL']","['WBA', 'CVX', 'CVX']",0.015459724888921566
+2016-08-01,"['CSCO', 'CSCO', 'WMT', 'VZ', 'MSFT', 'CAT', 'AAPL', 'MRK', 'GS', 'JPM']","['MRK', 'GS', 'JPM']","['PFE', 'PFE', 'JNJ']",-0.011733558461755233
+2016-09-01,"['CSCO', 'CSCO', 'WMT', 'MSFT', 'CAT', 'AAPL', 'MRK', 'CAT', 'AAPL', 'INTC']","['CAT', 'AAPL', 'INTC']","['GS', 'JPM', 'VZ']",0.01265922758424647
+2016-10-01,"['CSCO', 'CSCO', 'WMT', 'MSFT', 'AAPL', 'MRK', 'AAPL', 'GS', 'BA', 'MSFT']","['GS', 'BA', 'MSFT']","['INTC', 'CAT', 'CAT']",-0.029389829456985837
+2016-11-01,"['WMT', 'MSFT', 'MRK', 'GS', 'BA', 'MSFT', 'GS', 'JPM', 'CAT', 'UNH']","['GS', 'JPM', 'CAT', 'UNH']","['AAPL', 'AAPL', 'CSCO']",0.025346179120283096
+2016-12-01,"['MSFT', 'GS', 'BA', 'MSFT', 'GS', 'JPM', 'UNH', 'GS', 'TRV', 'JPM']","['GS', 'TRV', 'JPM']","['MRK', 'CAT', 'WMT']",0.031411349999251124
+2017-01-01,"['MSFT', 'BA', 'MSFT', 'JPM', 'UNH', 'TRV', 'JPM', 'DIS', 'MRK', 'V']","['DIS', 'MRK', 'V']","['GS', 'GS', 'GS']",-0.005436944673728383
+2017-02-01,"['BA', 'JPM', 'UNH', 'TRV', 'JPM', 'MRK', 'V', 'AAPL', 'CSCO', 'BA']","['AAPL', 'CSCO', 'BA']","['MSFT', 'MSFT', 'DIS']",0.04144084545275809
+2017-03-01,"['BA', 'UNH', 'TRV', 'V', 'AAPL', 'CSCO', 'BA', 'AAPL', 'MSFT', 'MMM']","['AAPL', 'MSFT', 'MMM']","['MRK', 'JPM', 'JPM']",-0.008481700826188154
+2017-04-01,"['BA', 'UNH', 'TRV', 'V', 'BA', 'MSFT', 'MMM', 'CAT', 'MCD', 'UNH']","['CAT', 'MCD', 'UNH']","['AAPL', 'AAPL', 'CSCO']",0.02725276613091294
+2017-05-01,"['TRV', 'V', 'MSFT', 'MMM', 'CAT', 'MCD', 'MCD', 'AAPL', 'KO', 'WMT']","['MCD', 'AAPL', 'KO', 'WMT']","['UNH', 'UNH', 'BA']",0.028607490399394742
+2017-06-01,"['TRV', 'V', 'MSFT', 'MMM', 'CAT', 'MCD', 'MCD', 'NKE', 'JPM', 'AXP']","['NKE', 'JPM', 'AXP']","['AAPL', 'WMT', 'KO']",-0.003144230408507498
+2017-07-01,"['TRV', 'V', 'MSFT', 'CAT', 'MCD', 'MCD', 'AXP', 'BA', 'VZ', 'V']","['BA', 'VZ', 'V']","['MMM', 'NKE', 'JPM']",0.02201835010841713
+2017-08-01,"['V', 'MSFT', 'CAT', 'MCD', 'MCD', 'AXP', 'V', 'AAPL', 'V', 'CAT']","['AAPL', 'V', 'CAT']","['TRV', 'BA', 'VZ']",0.016143877598544843
+2017-09-01,"['V', 'MSFT', 'CAT', 'AXP', 'V', 'V', 'CAT', 'CVX', 'HD', 'INTC']","['CVX', 'HD', 'INTC']","['AAPL', 'MCD', 'MCD']",0.014379814506828282
+2017-10-01,"['MSFT', 'CAT', 'AXP', 'CAT', 'INTC', 'INTC', 'WMT', 'MSFT', 'AAPL', 'MMM']","['INTC', 'WMT', 'MSFT', 'AAPL', 'MMM']","['CVX', 'HD', 'V']",0.0680029957930172
+2017-11-01,"['CAT', 'AXP', 'CAT', 'WMT', 'AAPL', 'MMM', 'WMT', 'CSCO', 'NKE', 'WBA']","['WMT', 'CSCO', 'NKE', 'WBA']","['INTC', 'INTC', 'MSFT']",0.029979374750359788
+2017-12-01,"['CAT', 'AXP', 'CAT', 'WMT', 'WMT', 'CSCO', 'NKE', 'CAT', 'BA', 'CVX']","['CAT', 'BA', 'CVX']","['MMM', 'AAPL', 'WBA']",0.030757537394525393
+2018-01-01,"['WMT', 'WMT', 'CSCO', 'NKE', 'BA', 'BA', 'TRV', 'MSFT', 'NKE', 'V']","['BA', 'TRV', 'MSFT', 'NKE', 'V']","['AXP', 'CVX', 'CAT']",0.06520333852404672
+2018-02-01,"['CSCO', 'NKE', 'BA', 'BA', 'MSFT', 'NKE', 'V', 'CSCO', 'AAPL', 'INTC']","['CSCO', 'AAPL', 'INTC']","['WMT', 'WMT', 'TRV']",-0.03121327390908445
+2018-03-01,"['CSCO', 'NKE', 'MSFT', 'NKE', 'V', 'CSCO', 'INTC', 'INTC', 'CVX', 'PG']","['INTC', 'CVX', 'PG']","['BA', 'BA', 'AAPL']",-0.03204761881004892
+2018-04-01,"['CSCO', 'NKE', 'MSFT', 'NKE', 'V', 'CSCO', 'CVX', 'UNH', 'CVX', 'MRK']","['UNH', 'CVX', 'MRK']","['PG', 'INTC', 'INTC']",0.02074223819666554
+2018-05-01,"['NKE', 'MSFT', 'NKE', 'V', 'UNH', 'MRK', 'AAPL', 'INTC', 'CAT', 'MSFT']","['AAPL', 'INTC', 'CAT', 'MSFT']","['CSCO', 'CSCO', 'CVX']",0.015090783145381792
+2018-06-01,"['NKE', 'MSFT', 'NKE', 'V', 'UNH', 'MRK', 'MSFT', 'NKE', 'PG', 'VZ']","['NKE', 'PG', 'VZ']","['CAT', 'INTC', 'AAPL']",0.006710604320413283
+2018-07-01,"['MSFT', 'V', 'UNH', 'MRK', 'MSFT', 'PG', 'VZ', 'WBA', 'JPM', 'PFE']","['WBA', 'JPM', 'PFE']","['NKE', 'NKE', 'NKE']",0.027958337737742367
+2018-08-01,"['MSFT', 'V', 'UNH', 'MRK', 'MSFT', 'VZ', 'PFE', 'AAPL', 'CSCO', 'WMT']","['AAPL', 'CSCO', 'WMT']","['JPM', 'WBA', 'PG']",0.04494348743877401
+2018-09-01,"['MSFT', 'V', 'MRK', 'MSFT', 'PFE', 'AAPL', 'CSCO', 'CAT', 'BA', 'XOM']","['CAT', 'BA', 'XOM']","['VZ', 'WMT', 'UNH']",0.014410049720439633
+2018-10-01,"['MRK', 'PFE', 'AAPL', 'CSCO', 'BA', 'XOM', 'WBA', 'VZ', 'WMT', 'PG']","['WBA', 'VZ', 'WMT', 'PG']","['CAT', 'V', 'MSFT']",-0.059507652597297234
+2018-11-01,"['MRK', 'PFE', 'CSCO', 'XOM', 'WBA', 'VZ', 'PG', 'CAT', 'AXP', 'MMM']","['CAT', 'AXP', 'MMM']","['AAPL', 'WMT', 'BA']",0.017403466435147997
+2018-12-01,"['MRK', 'PFE', 'CSCO', 'VZ', 'PG', 'CAT', 'MMM', 'NKE', 'PG', 'MRK']","['NKE', 'PG', 'MRK']","['WBA', 'AXP', 'XOM']",-0.08892498016040616
+2019-01-01,"['CSCO', 'PG', 'CAT', 'MMM', 'NKE', 'PG', 'BA', 'GS', 'IBM', 'NKE']","['BA', 'GS', 'IBM', 'NKE']","['PFE', 'VZ', 'MRK']",0.03076440991289787
+2019-02-01,"['CSCO', 'CAT', 'MMM', 'NKE', 'BA', 'NKE', 'BA', 'INTC', 'CSCO', 'V']","['BA', 'INTC', 'CSCO', 'V']","['GS', 'IBM', 'PG']",0.04918561629686148
+2019-03-01,"['CSCO', 'CAT', 'MMM', 'INTC', 'CSCO', 'V', 'AAPL', 'MSFT', 'V', 'PG']","['AAPL', 'MSFT', 'V', 'PG']","['BA', 'BA', 'NKE']",-0.013504017684335156
+2019-04-01,"['CSCO', 'CAT', 'CSCO', 'V', 'AAPL', 'MSFT', 'V', 'DIS', 'JPM', 'MSFT']","['DIS', 'JPM', 'MSFT']","['MMM', 'INTC', 'PG']",0.025679285097003412
+2019-05-01,"['CSCO', 'CSCO', 'V', 'MSFT', 'V', 'DIS', 'MSFT', 'UNH', 'PFE', 'TRV']","['UNH', 'PFE', 'TRV']","['CAT', 'AAPL', 'JPM']",-0.06509977830638883
+2019-06-01,"['V', 'MSFT', 'V', 'DIS', 'MSFT', 'PFE', 'CAT', 'AAPL', 'GS', 'WBA']","['CAT', 'AAPL', 'GS', 'WBA']","['UNH', 'TRV', 'CSCO']",0.05792798208541781
+2019-07-01,"['V', 'MSFT', 'V', 'DIS', 'MSFT', 'AAPL', 'GS', 'PG', 'AAPL', 'GS']","['PG', 'AAPL', 'GS']","['PFE', 'CAT', 'WBA']",0.012159497784337048
+2019-08-01,"['V', 'MSFT', 'V', 'MSFT', 'AAPL', 'PG', 'AAPL', 'BA', 'HD', 'VZ']","['BA', 'HD', 'VZ']","['GS', 'GS', 'DIS']",-0.01418284105669534
+2019-09-01,"['AAPL', 'PG', 'AAPL', 'BA', 'HD', 'VZ', 'NKE', 'INTC', 'WBA', 'IBM']","['NKE', 'INTC', 'WBA', 'IBM']","['V', 'V', 'MSFT']",0.022495366964177754
+2019-10-01,"['AAPL', 'PG', 'AAPL', 'HD', 'VZ', 'INTC', 'WBA', 'UNH', 'AAPL', 'INTC']","['UNH', 'AAPL', 'INTC']","['BA', 'IBM', 'NKE']",0.009537097847362475
+2019-11-01,"['AAPL', 'AAPL', 'INTC', 'WBA', 'UNH', 'AAPL', 'INTC', 'DIS', 'UNH', 'WBA']","['DIS', 'UNH', 'WBA']","['HD', 'PG', 'VZ']",0.040543747283354116
+2019-12-01,"['AAPL', 'AAPL', 'INTC', 'UNH', 'AAPL', 'INTC', 'UNH', 'AAPL', 'NKE', 'JNJ']","['AAPL', 'NKE', 'JNJ']","['DIS', 'WBA', 'WBA']",0.04278565543408003
+2020-01-01,"['AAPL', 'AAPL', 'INTC', 'AAPL', 'INTC', 'AAPL', 'JNJ', 'MCD', 'MSFT', 'IBM']","['MCD', 'MSFT', 'IBM']","['UNH', 'UNH', 'NKE']",0.018414726599883892
+2020-02-01,"['JNJ', 'MCD', 'MSFT', 'IBM', 'HD', 'CAT', 'MSFT', 'MMM', 'WMT', 'UNH']","['HD', 'CAT', 'MSFT', 'MMM', 'WMT', 'UNH']","['INTC', 'INTC', 'AAPL']",-0.10622593484984559
+2020-03-01,"['JNJ', 'MSFT', 'CAT', 'MSFT', 'MMM', 'WMT', 'UNH', 'WMT', 'WBA', 'MRK']","['WMT', 'WBA', 'MRK']","['MCD', 'HD', 'IBM']",-0.06009739876467581
+2020-04-01,"['JNJ', 'MSFT', 'MSFT', 'MMM', 'WMT', 'UNH', 'WMT', 'CVX', 'XOM', 'GS']","['CVX', 'XOM', 'GS']","['WBA', 'CAT', 'MRK']",0.08455419616508171
+2020-05-01,"['MSFT', 'MSFT', 'MMM', 'WMT', 'UNH', 'WMT', 'GS', 'CSCO', 'NKE', 'HD']","['CSCO', 'NKE', 'HD']","['XOM', 'JNJ', 'CVX']",0.019634716012752018
+2020-06-01,"['MSFT', 'MSFT', 'MMM', 'GS', 'CSCO', 'NKE', 'HD', 'BA', 'AAPL', 'MSFT']","['BA', 'AAPL', 'MSFT']","['UNH', 'WMT', 'WMT']",0.013397398899151092
+2020-07-01,"['MSFT', 'MSFT', 'GS', 'CSCO', 'HD', 'AAPL', 'MSFT', 'PFE', 'AAPL', 'PG']","['PFE', 'AAPL', 'PG']","['BA', 'MMM', 'NKE']",0.008705390964019533
+2020-08-01,"['MSFT', 'MSFT', 'HD', 'AAPL', 'MSFT', 'AAPL', 'PG', 'AAPL', 'NKE', 'DIS']","['AAPL', 'NKE', 'DIS']","['CSCO', 'PFE', 'GS']",0.07943457656198366
+2020-09-01,"['MSFT', 'MSFT', 'HD', 'MSFT', 'PG', 'NKE', 'DIS', 'NKE', 'CAT', 'MCD']","['NKE', 'CAT', 'MCD']","['AAPL', 'AAPL', 'AAPL']",-0.045368931834086926
+2020-10-01,"['HD', 'PG', 'DIS', 'CAT', 'MCD', 'TRV', 'CAT', 'JPM', 'MMM', 'WMT']","['TRV', 'CAT', 'JPM', 'MMM', 'WMT']","['NKE', 'NKE', 'MSFT']",-0.02466463269670526
+2020-11-01,"['DIS', 'CAT', 'TRV', 'CAT', 'JPM', 'MMM', 'WMT', 'BA', 'AXP', 'CVX']","['BA', 'AXP', 'CVX']","['PG', 'MCD', 'HD']",0.0992941796752694
+2020-12-01,"['DIS', 'CAT', 'TRV', 'CAT', 'JPM', 'MMM', 'AXP', 'DIS', 'GS', 'AAPL']","['DIS', 'GS', 'AAPL']","['WMT', 'CVX', 'BA']",0.04644095791003855
+2021-01-01,"['CAT', 'TRV', 'CAT', 'JPM', 'MMM', 'GS', 'AAPL', 'WBA', 'INTC', 'XOM']","['WBA', 'INTC', 'XOM']","['DIS', 'DIS', 'AXP']",-0.014995581401088188
+2021-02-01,"['CAT', 'TRV', 'CAT', 'JPM', 'GS', 'INTC', 'XOM', 'XOM', 'CAT', 'GS']","['XOM', 'CAT', 'GS']","['AAPL', 'WBA', 'MMM']",0.09484418281713394
+2021-03-01,"['CAT', 'CAT', 'JPM', 'INTC', 'XOM', 'XOM', 'CAT', 'BA', 'HD', 'WBA']","['BA', 'HD', 'WBA']","['GS', 'GS', 'TRV']",0.04852945502195014
+2021-04-01,"['CAT', 'CAT', 'JPM', 'XOM', 'XOM', 'CAT', 'HD', 'V', 'AXP', 'AAPL']","['V', 'AXP', 'AAPL']","['INTC', 'BA', 'WBA']",-0.013477794888389228
+2021-05-01,"['CAT', 'CAT', 'JPM', 'XOM', 'XOM', 'CAT', 'AXP', 'JPM', 'GS', 'CAT']","['JPM', 'GS', 'CAT']","['AAPL', 'V', 'HD']",0.024908712330865335
+2021-06-01,"['JPM', 'XOM', 'XOM', 'AXP', 'JPM', 'GS', 'NKE', 'AAPL', 'XOM', 'MSFT']","['NKE', 'AAPL', 'XOM', 'MSFT']","['CAT', 'CAT', 'CAT']",-0.02466718347904857
+2021-07-01,"['JPM', 'AXP', 'JPM', 'GS', 'NKE', 'AAPL', 'MSFT', 'PFE', 'NKE', 'AAPL']","['PFE', 'NKE', 'AAPL']","['XOM', 'XOM', 'XOM']",-0.008959522095367777
+2021-08-01,"['JPM', 'JPM', 'GS', 'AAPL', 'MSFT', 'PFE', 'AAPL', 'GS', 'PFE', 'WBA']","['GS', 'PFE', 'WBA']","['AXP', 'NKE', 'NKE']",0.039283499555936775
+2021-09-01,"['JPM', 'JPM', 'MSFT', 'PFE', 'PFE', 'WBA', 'XOM', 'CVX', 'JPM', 'MCD']","['XOM', 'CVX', 'JPM', 'MCD']","['GS', 'GS', 'AAPL']",-0.051018541021072096
+2021-10-01,"['JPM', 'JPM', 'MSFT', 'XOM', 'CVX', 'JPM', 'MCD', 'MRK', 'UNH', 'MSFT']","['MRK', 'UNH', 'MSFT']","['WBA', 'PFE', 'PFE']",0.05662356403756578
+2021-11-01,"['MSFT', 'CVX', 'MCD', 'UNH', 'MSFT', 'PFE', 'AAPL', 'HD', 'PG', 'NKE']","['PFE', 'AAPL', 'HD', 'PG', 'NKE']","['MRK', 'XOM', 'JPM']",-0.04589722792519139
+2021-12-01,"['CVX', 'MCD', 'UNH', 'PFE', 'AAPL', 'HD', 'PG', 'WBA', 'IBM', 'CSCO']","['WBA', 'IBM', 'CSCO']","['NKE', 'MSFT', 'MSFT']",0.06591419635474524
+2022-01-01,"['CVX', 'MCD', 'UNH', 'AAPL', 'PG', 'WBA', 'IBM', 'XOM', 'TRV', 'CVX']","['XOM', 'TRV', 'CVX']","['PFE', 'HD', 'CSCO']",-0.053135170749978665
